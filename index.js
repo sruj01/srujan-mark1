@@ -19,23 +19,23 @@ function play(question,answer,fact)
 }
 
 var questions=[{
-  question: 'What\'s my sport? ',
+  question: 'Q1. What\'s my sport? ',
   answer: 'football',
   fact: 'It\'s the world\'s greatest sport: FOOTBALL⚽'},
 
-  {question: 'I\'ve always wanted to be an.. (Hint: Not an Engineer!)',
+  {question: 'Q2. I\'ve always wanted to be an.. (Hint: Not an Engineer!)',
   answer: 'Astrophysicist',
   fact:  'The most exiting, intriguing, overwhelming and bewitching profession of them all! My dream was to be an Astrophysicist🪐👽'},
 
-  {question: 'My most prized possession would be.. (Hint: I keep them stacked) :' ,
+  {question: 'Q3. My most prized possession would be.. (Hint: I keep them stacked) :' ,
   answer: 'Books',
   fact: 'My collection of Books is such that it would put any school library to shame '},
 
-  {question: 'Who\'s my favourite footballer? (Hint: He\'s the GOAT)',
+  {question: 'Q4. Who\'s my favourite footballer? (Hint: He\'s the GOAT)',
   answer: 'messi',
   fact: 'Lionel Andres\' Messi.\nAnd screw you if you typed Ronaldo'},
 
-  {question: 'Complete this quote for me: "When the going gets tough, the tough get.."',
+  {question: 'Q5. Complete this quote for me: "When the going gets tough, the tough get.."',
   answer: 'going',
   fact: 'Shame on you if you couldn\'t get it right'
   }
